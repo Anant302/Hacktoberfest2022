@@ -2041,10 +2041,16 @@ contributors = [
     username:"https://github.com/aurocodes",
   },
   
-   {
+  {
     id:421,
     fullname:"Gautami SInha",
     username:"https://github.com/amnotcreative",
+  },
+  
+  {
+    id:422,
+    fullname:"Anant Kamalnayan",
+    username:"https://github.com/Anant302",
   }
 
 ];
